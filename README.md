@@ -35,5 +35,5 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> 
 <a href="https://trello.com/en" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="30" height="30"/> </a>
 <hr>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=gazihandemir&count_private=true&show_icons=true&theme=tokyonight" alt="gazihandemir" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gazihandemir&show_icons=true&theme=radical&locale=en&layout=compact" alt="gazihandemir" />
+<img  src="https://github-readme-stats.vercel.app/api?username=gazihandemir&count_private=true&show_icons=true&theme=tokyonight" alt="gazihandemir" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=gazihandemir&show_icons=true&theme=radical&locale=en&layout=compact" alt="gazihandemir" />
