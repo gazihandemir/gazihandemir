@@ -2,7 +2,6 @@
 ### A Frontend Developer from Adana/Turkey
 - 🦊 I’m currently working on Javascript, Jquery, Html, Css
 - 🐐 I’m currently learning React.js, Vue.js, Node.js etc.
-- 🦄 Studying at Patika Reengen FullStack Bootcamp
 
 <h2>Connect with me:</h2>
 <p align="left">
