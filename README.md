@@ -1,4 +1,4 @@
-### Hi, I'm Gazihan <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px>
+### Hi, I'm Gazihan
 
 <h2>Connect with me:</h2>
 <p align="left">
