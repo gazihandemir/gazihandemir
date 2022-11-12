@@ -1,8 +1,5 @@
 ### Hi, I'm Gazihan
 
-<h2>Connect with me:</h2>
-<p align="left">
-</p>
 <h2 align="left">Technologies:</h2>
 <p align="left"> 
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
