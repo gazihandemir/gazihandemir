@@ -2,7 +2,6 @@
 
 <h2>Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/gazihan-demir" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="gazihandemir" height="30" width="30" /></a>
 </p>
 <h2 align="left">Technologies:</h2>
 <p align="left"> 
